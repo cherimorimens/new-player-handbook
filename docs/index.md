@@ -22,7 +22,7 @@ icon: lucide/heart
 
     Last updated 14 May 2026 (V2.5.0.5 The Great Conquering Rerun)
 
-!!! info
+!!! info "General Info"
 
     This is a living document. All info is subject to change.
     

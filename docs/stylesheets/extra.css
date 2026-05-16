@@ -1,11 +1,19 @@
+/**
+ * New fonts
+ */
+
 @import url("https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+/**
+ * New variables
+ */
 
 :root {
   --md-alternative-font-family: "Crimson Text";
 }
 
 /**
- * General color variables
+ * Existing variables updates
  */
 
 /* Light theme: default */
@@ -23,6 +31,14 @@
 }
 
 /**
+ * Resets
+ */
+
+.md-footer__link--prev .md-footer__title {
+  display: block !important;
+}
+
+/**
  * Color tweaks for components
  */
 
@@ -32,6 +48,7 @@
   border-top: 1px solid var(--md-default-fg-color--lightest);
 }
 
+/* Typeset */
 .md-typeset {
   font-size: 0.8rem;
 }

@@ -43,7 +43,7 @@ copyright = "&copy; 2026 Cheri"
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-  { "Morimens New Player Handbook" = "index.md" },
+  { "General Info" = "index.md" },
   { "Glossary" = "glossary.md" },
 ]
 
