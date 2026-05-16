@@ -9,7 +9,7 @@
  */
 
 :root {
-  --md-alternative-font-family: "Crimson Text";
+  --md-alt-font-family: "Crimson Text";
 }
 
 /**
@@ -39,10 +39,25 @@
 }
 
 /**
- * Color tweaks for components
+ * Components tweaks
  */
 
-/* Footer Meta */
+/* Footer */
+.md-footer__link {
+  margin-bottom: 1rem;
+}
+
+.md-footer__button {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.md-footer__title {
+  margin: 0;
+}
+
 .md-footer-meta {
   background-color: var(--md-default-bg-color);
   border-top: 1px solid var(--md-default-fg-color--lightest);
@@ -53,8 +68,14 @@
   font-size: 0.8rem;
 }
 
+/* Admonition, Summary */
 .md-typeset .admonition {
   font-size: 0.8rem;
+}
+
+.md-typeset .admonition-title::before,
+.md-typeset summary::before {
+  top: 0.24em;
 }
 
 /**
@@ -62,18 +83,10 @@
  */
 
 /* Text-related */
-.text-xl {
-  font-size: 2.4rem !important;
-}
-
-.text-regular {
-  font-weight: 400 !important;
+.font-alt {
+  font-family: var(--md-alt-font-family);
 }
 
 .text-center {
   text-align: center;
-}
-
-.font-alternative {
-  font-family: var(--md-alternative-font-family);
 }

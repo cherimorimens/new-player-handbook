@@ -7,14 +7,14 @@ icon: lucide/heart
   ![](images/logo.png)
 </figure>
 
-<h1 class="text-xl text-regular text-center font-alternative" style="margin-bottom: 0;">
+<h1 class="font-alt text-center" style="margin: 0; font-size: 2.4rem; font-weight: 400;">
   Morimens New Player Handbook
 </h1>
 
 <p class="text-center" style="margin: 0;">
   By Cheri, with help from the Morimens EN Discord and Mythag University
 </p>
-<p class="text-center" style="margin-top: 0;">
+<p class="text-center" style="margin: 0;">
   <em style="color: gray;">"May the Silver Key guide your way"</em>
 </p>
 
