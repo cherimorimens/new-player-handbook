@@ -43,7 +43,7 @@ copyright = "&copy; 2026 Cheri"
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-  { "Introduction" = "index.md" },
+  { "Morimens New Player Handbook" = "index.md" },
   { "Glossary" = "glossary.md" },
 ]
 
@@ -81,7 +81,7 @@ extra_css = ["stylesheets/extra.css"]
 # Read more:
 # - https://zensical.org/docs/customization/#extending-the-theme
 #
-#custom_dir = "overrides"
+custom_dir = "overrides"
 
 # With the "favicon" option you can set your own image to use as the icon
 # browsers will use in the browser title bar or tab bar. The path provided
@@ -263,8 +263,8 @@ logo = "images/logo.png"
 # - https://zensical.org/docs/setup/logo-and-icons
 # - https://github.com/zensical/ui/tree/master/dist/.icons
 # ----------------------------------------------------------------------------
-#[project.theme.icon]
-#logo = "lucide/smile"
+# [project.theme.icon]
+# logo = "lucide/smile"
 
 # ----------------------------------------------------------------------------
 # In the "font" subsection you can configure the fonts used. By default, fonts
@@ -272,9 +272,9 @@ logo = "images/logo.png"
 # of suitably licensed fonts. There are options for a normal text font and for
 # a monospaced font used in code blocks.
 # ----------------------------------------------------------------------------
-#[project.theme.font]
-#text = "Inter"
-#code = "Jetbrains Mono"
+# [project.theme.font]
+# text = "Inter"
+# code = "Jetbrains Mono"
 
 # ----------------------------------------------------------------------------
 # In the "palette" subsection you can configure options for the color scheme.

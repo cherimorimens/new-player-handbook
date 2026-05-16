@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+:root {
+  --md-alternative-font-family: "Crimson Text";
+}
+
 /**
  * General color variables
  */
@@ -24,4 +30,33 @@
 .md-footer-meta {
   background-color: var(--md-default-bg-color);
   border-top: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset {
+  font-size: 0.8rem;
+}
+
+.md-typeset .admonition {
+  font-size: 0.8rem;
+}
+
+/**
+ * Utility classes
+ */
+
+/* Text-related */
+.text-xl {
+  font-size: 2.4rem !important;
+}
+
+.text-regular {
+  font-weight: 400 !important;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.font-alternative {
+  font-family: var(--md-alternative-font-family);
 }
