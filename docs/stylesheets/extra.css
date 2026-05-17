@@ -68,13 +68,14 @@
   font-size: 0.8rem;
 }
 
-/* Admonition, Summary */
+/* Admonition */
 .md-typeset .admonition {
+  padding-right: 1.14rem;
+  padding-left: 1.14rem;
   font-size: 0.8rem;
 }
 
-.md-typeset .admonition-title::before,
-.md-typeset summary::before {
+.md-typeset .admonition-title::before {
   top: 0.24em;
 }
 
@@ -89,4 +90,8 @@
 
 .text-center {
   text-align: center;
+}
+
+.text-indent {
+  text-indent: 1.14rem;
 }

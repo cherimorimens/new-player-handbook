@@ -43,7 +43,7 @@ copyright = "&copy; 2026 Cheri"
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-  { "General Info" = "index.md" },
+  { "Introduction" = "index.md" },
   { "Glossary" = "glossary.md" },
 ]
 
