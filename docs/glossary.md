@@ -1,7 +1,7 @@
 ---
 title: Glossary
-description: Morimens terms used in the game and in the Handbook
-icon: lucide/book-marked
+description: Morimens terms used in the game and community
+icon: lucide/book-a
 ---
 
 # Glossary

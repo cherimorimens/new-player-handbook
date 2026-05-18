@@ -1,6 +1,6 @@
 ---
 title: Morimens New Player Handbook
-icon: lucide/heart
+icon: lucide/book-open
 ---
 
 <figure markdown="span">
@@ -20,11 +20,11 @@ icon: lucide/heart
 
 !!! note "Last updated"
 
-    17 May 2026
+    18 May 2026
 
-    V2.5.0.5 The Great Conquering Rerun
+    V2.5.1.0 Saya
 
-!!! note ""
+!!! info ""
 
     This is a living document. All info is subject to change.
     

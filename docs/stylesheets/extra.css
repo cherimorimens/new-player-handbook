@@ -83,9 +83,25 @@
  * Utility classes
  */
 
-/* Text-related */
+/* Gallery */
+.gallery {
+  display: flex;
+  overflow-x: auto;
+  max-width: 100%;
+  gap: 0.4rem;
+}
+
+.gallery img {
+  max-width: 256px;
+}
+
+/* Text */
 .font-alt {
   font-family: var(--md-alt-font-family);
+}
+
+.list-indent {
+  margin-left: 0.46rem;
 }
 
 .text-center {
