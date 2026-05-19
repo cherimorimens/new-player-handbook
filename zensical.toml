@@ -44,8 +44,8 @@ copyright = "&copy; 2026 Cheri"
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
   { "Introduction" = "index.md" },
+  { "Spending Your Resources" = "spending-your-resources.md" },
   { "Links and Resources" = "links-and-resources.md" },
-  { "General Info" = "general-info.md" },
   { "Glossary" = "glossary.md" },
 ]
 

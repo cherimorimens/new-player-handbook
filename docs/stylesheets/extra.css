@@ -3,6 +3,7 @@
  */
 
 @import url("https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&display=swap");
 
 /**
  * New variables
@@ -10,6 +11,7 @@
 
 :root {
   --md-alt-font-family: "Crimson Text";
+  --md-heading-font-family: "Libre Caslon Display";
 }
 
 /**
@@ -31,16 +33,31 @@
 }
 
 /**
- * Resets
+ * General tweaks
  */
 
-.md-footer__link--prev .md-footer__title {
-  display: block !important;
+.md-grid {
+  max-width: 64rem;
+}
+
+.md-sidebar {
+  width: 12.4rem;
 }
 
 /**
  * Components tweaks
  */
+
+/* Figcaption */
+.md-typeset figcaption {
+  opacity: 0.75;
+  max-width: none;
+  margin: 0;
+  text-align: center;
+  font-family: var(--md-alt-font-family);
+  font-style: italic;
+  font-size: 1rem;
+}
 
 /* Footer */
 .md-footer__link {
@@ -68,6 +85,27 @@
   font-size: 0.8rem;
 }
 
+.md-typeset h1,
+.md-typeset h2 {
+  font-family: var(--md-heading-font-family);
+  letter-spacing: 0;
+}
+
+.md-typeset h1 {
+  font-size: 2.6em;
+}
+
+.md-typeset h2 {
+  font-size: 2em;
+}
+
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-family: var(--md-alt-font-family);
+}
+
 /* Admonition */
 .md-typeset .admonition {
   padding-right: 1.14rem;
@@ -82,6 +120,16 @@
 /**
  * Utility classes
  */
+
+/* Caption */
+.caption {
+  opacity: 0.75;
+  margin: 0;
+  text-align: center;
+  font-family: var(--md-alt-font-family);
+  font-style: italic;
+  font-size: 1rem;
+}
 
 /* Gallery */
 .gallery {
