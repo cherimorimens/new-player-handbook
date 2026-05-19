@@ -5,6 +5,7 @@ icon: lucide/link
 
 # Links and Resources
 
+<div class="list-indent" markdown="block">
 - [Official Discord](https://discord.gg/RAegY8wcGx){target="_blank"}
 - [Mythag University Discord](https://discord.gg/DM4TsreHny){target="_blank"}
 
@@ -34,6 +35,7 @@ icon: lucide/link
 - [Gothgirlfriend](https://www.youtube.com/@goth.girlfriendd){target="_blank"} - video guides
 - [satri-jynni](https://www.youtube.com/@satriyajynni){target="_blank"} - hard mode clears
 - [Kiro Takahashi](https://www.youtube.com/@linireo){target="_blank"} - hard mode clears
+</div>
 
 !!! info "On Flares"
 

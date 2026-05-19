@@ -12,6 +12,20 @@
 :root {
   --md-alt-font-family: "Crimson Text";
   --md-heading-font-family: "Libre Caslon Display";
+
+  [data-md-color-scheme="default"] {
+    --md-realms-chaos: #fce5cd;
+    --md-realms-aequor: #cfe2f3;
+    --md-realms-caro: #f4cccc;
+    --md-realms-ultra: #d9d2e9;
+  }
+
+  [data-md-color-scheme="slate"] {
+    --md-realms-chaos: #2f2620;
+    --md-realms-aequor: #24303b;
+    --md-realms-caro: #3a2626;
+    --md-realms-ultra: #2f2a3b;
+  }
 }
 
 /**
@@ -133,14 +147,27 @@
 
 /* Gallery */
 .gallery {
-  display: flex;
+  display: flex !important;
   overflow-x: auto;
   max-width: 100%;
   gap: 0.4rem;
+  text-align: center;
 }
 
 .gallery img {
+  object-fit: contain;
   max-width: 256px;
+}
+
+.gallery li {
+  display: grid;
+  align-items: center;
+  margin: 0 !important;
+  list-style: none;
+}
+
+.gallery p {
+  margin-bottom: 0 !important;
 }
 
 /* Text */
@@ -148,8 +175,9 @@
   font-family: var(--md-alt-font-family);
 }
 
-.list-indent {
-  margin-left: 0.46rem;
+[dir="ltr"] .list-indent ol,
+[dir="ltr"] .list-indent ul {
+  margin-left: 0.95rem;
 }
 
 .text-center {

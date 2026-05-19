@@ -43,9 +43,9 @@ icon: lucide/book-open
 ## Read the In-Game Tutorials
 
 <div class="gallery" markdown="span">
-  ![](images/introduction/in-game-tutorials-1.png){class="on-glb"}
-  ![](images/introduction/in-game-tutorials-2.png){class="on-glb"}
-  ![](images/introduction/in-game-tutorials-3.png){class="on-glb"}
+  ![](images/introduction/in-game-tutorials-1.png){class="on-glb" loading=lazy}
+  ![](images/introduction/in-game-tutorials-2.png){class="on-glb" loading=lazy}
+  ![](images/introduction/in-game-tutorials-3.png){class="on-glb" loading=lazy}
 </div>
 
 <div class="text-indent" markdown="block">
@@ -67,8 +67,8 @@ If you need further explanation for any of these, consult the [Mythag Compendium
 ## Redemption Codes
 
 <div class="gallery" markdown="span">
-  ![](images/introduction/redemption-codes-1.png){class="on-glb"}
-  ![](images/introduction/redemption-codes-2.png){class="on-glb"}
+  ![](images/introduction/redemption-codes-1.png){class="on-glb" loading=lazy}
+  ![](images/introduction/redemption-codes-2.png){class="on-glb" loading=lazy}
 </div>
 
 <div class="text-indent" markdown="block">
@@ -80,7 +80,7 @@ If you need further explanation for any of these, consult the [Mythag Compendium
 ## You Will Die
 
 <figure markdown="span">
-  ![](images/introduction/you-will-die.png){width="400"}
+  ![](images/introduction/you-will-die.png){width="400" loading=lazy}
 </figure>
 
 <div class="text-indent" markdown="block">
