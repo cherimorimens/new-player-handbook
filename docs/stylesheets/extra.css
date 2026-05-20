@@ -130,8 +130,6 @@
 
 /* Admonition */
 .md-typeset .admonition {
-  padding-right: 1.14rem;
-  padding-left: 1.14rem;
   font-size: 0.8rem;
 }
 
@@ -190,15 +188,6 @@
   }
 }
 
-[dir="ltr"] .list-indent ol,
-[dir="ltr"] .list-indent ul {
-  margin-left: 0.95rem;
-}
-
 .text-center {
   text-align: center;
-}
-
-.text-indent {
-  text-indent: 1.14rem;
 }

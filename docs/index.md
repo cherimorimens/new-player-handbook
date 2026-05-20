@@ -14,6 +14,7 @@ icon: lucide/book-open
 <p class="text-center" style="margin: 0;">
   By Cheri, with help from the Morimens EN Discord and Mythag University
 </p>
+
 <p class="caption">
   "May the Silver Key guide your way"
 </p>
@@ -32,13 +33,11 @@ icon: lucide/book-open
 
 ## Welcome to Morimens!
 
-<div class="text-indent" markdown="block">
-  This guide is aimed at new players who are just starting the game. You can use it as a quick reference for common questions. It also contains advice about game strategy and how to spend your resources.
+This guide is aimed at new players who are just starting the game. You can use it as a quick reference for common questions. It also contains advice about game strategy and how to spend your resources.
 
-  This info is based on my experience as a veteran player and speedrunner, as well as the opinions of top players in the EN community. No advice is perfect, however I have tried to make this guide as unbiased and complete as possible.
+This info is based on my experience as a veteran player and speedrunner, as well as the opinions of top players in the EN community. No advice is perfect, however I have tried to make this guide as unbiased and complete as possible.
 
-  Thanks to the following players for their feedback: Alice, angbak, Arandomflamev2, Aria, Arintal, Aurora, Bagels, Blecnes, Bluelien, Calliphora, Catato, cornonthemacabre, dracozion, dudu, Ellie, Exo, Fibrinogen, fish, Frosthief, John Morimens, Jolly, Juice, Kaly, L, Lens, Lil poison bro, Megidola, Melwyn, Mengluo, Mika, monchi, Null, ppep, RainScarlet, Rascal, Redz, smile, Snorlax, Soma, Spooky, Tea, Villa, Zekiel, Zyocuh.
-</div>
+Thanks to the following players for their feedback: Alice, angbak, Arandomflamev2, Aria, Arintal, Aurora, Bagels, Blecnes, Bluelien, Calliphora, Catato, cornonthemacabre, dracozion, dudu, Ellie, Exo, Fibrinogen, fish, Frosthief, John Morimens, Jolly, Juice, Kaly, L, Lens, Lil poison bro, Megidola, Melwyn, Mengluo, Mika, monchi, Null, ppep, RainScarlet, Rascal, Redz, smile, Snorlax, Soma, Spooky, Tea, Villa, Zekiel, Zyocuh.
 
 ## Read the In-Game Tutorials
 
@@ -48,19 +47,15 @@ icon: lucide/book-open
   ![](images/introduction/in-game-tutorials-3.png){class="on-glb" loading=lazy}
 </div>
 
-<div class="text-indent" markdown="block">
-  A lot of information can be found in the in-game tutorials. Clicking on various icons in the UI will bring up information as well.
+A lot of information can be found in the in-game tutorials. Clicking on various icons in the UI will bring up information as well.
 
-  This guide assumes you have already read all of these things and understand:
-</div>
+This guide assumes you have already read all of these things and understand:
 
-<div class="list-indent" markdown="block">
-  - how the basic game mechanics work
-  - what arithmetica, aliemus, keyflare, exalts, and posses are
-  - what each of the stats does
-  - what each of the realms does
-  - how to use Aequor stances, Caro Crimson Furnace, and Ultra Annihilation
-</div>
+- how the basic game mechanics work
+- what arithmetica, aliemus, keyflare, exalts, and posses are
+- what each of the stats does
+- what each of the realms does
+- how to use Aequor stances, Caro Crimson Furnace, and Ultra Annihilation
 
 If you need further explanation for any of these, consult the [Mythag Compendium](https://docs.google.com/spreadsheets/d/1TCU7LJRzqKeuvLe97y_TfGZ-j6jq5bZX6hskAAJ2mFQ/edit?gid=508523868){target="_blank"}.
 
@@ -71,11 +66,9 @@ If you need further explanation for any of these, consult the [Mythag Compendium
   ![](images/introduction/redemption-codes-2.png){class="on-glb" loading=lazy}
 </div>
 
-<div class="text-indent" markdown="block">
-  Codes are often given out from social media promotions. You can redeem them for Silver and other rewards.
+Codes are often given out from social media promotions. You can redeem them for Silver and other rewards.
 
-  The best way to learn what codes are currently active is to ask in the [official Discord](https://discord.gg/RAegY8wcGx){target="_blank"}.
-</div>
+The best way to learn what codes are currently active is to ask in the [official Discord](https://discord.gg/RAegY8wcGx){target="_blank"}.
 
 ## You Will Die
 
@@ -83,12 +76,10 @@ If you need further explanation for any of these, consult the [Mythag Compendium
   ![](images/introduction/you-will-die.png){width="400" loading=lazy}
 </figure>
 
-<div class="text-indent" markdown="block">
-  As a new player, you start in a honeymoon period. Chapters 1-5 of Faded Legacy are relatively easy and can be beaten with random characters playing random cards.
-  
-  Once you reach the midgame, Morimens stops holding your hand. Enemies will no longer roll over to basic attacks. You will see incoming damage that is higher than your whole HP bar. You will probably die the first time you attempt many bosses.
-  
-  Treat each defeat as a lesson rather than a setback. This game is 10% pay-to-win and 90% skill and patience. If you spend thousands of dollars on a bad team, you will still die. If you pay attention, build your team right, and play your cards right, you'll overcome challenges that seem impossible.
-  
-  One more thing: there's no shame in using Emergency Gnosis. The game gives you a free revive every day. Unless you're aiming for achievements or bragging rights, why waste it?
-</div>
+As a new player, you start in a honeymoon period. Chapters 1-5 of Faded Legacy are relatively easy and can be beaten with random characters playing random cards.
+
+Once you reach the midgame, Morimens stops holding your hand. Enemies will no longer roll over to basic attacks. You will see incoming damage that is higher than your whole HP bar. You will probably die the first time you attempt many bosses.
+
+Treat each defeat as a lesson rather than a setback. This game is 10% pay-to-win and 90% skill and patience. If you spend thousands of dollars on a bad team, you will still die. If you pay attention, build your team right, and play your cards right, you'll overcome challenges that seem impossible.
+
+One more thing: there's no shame in using Emergency Gnosis. The game gives you a free revive every day. Unless you're aiming for achievements or bragging rights, why waste it?

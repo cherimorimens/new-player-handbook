@@ -11,9 +11,7 @@ icon: lucide/wallet
 
 ## Your First Awakening
 
-<div class="text-indent">
 After completing the prologue, you get a free 5-pull where you can choose any SSR awakener from the standard banner. Here are the options:
-</div>
 
 <ul class="gallery" markdown="block">
   <li markdown="span" style="background-color: var(--md-realms-chaos)">
@@ -123,7 +121,6 @@ After completing the prologue, you get a free 5-pull where you can choose any SS
   </li>
 </ul>
 
-<div class="text-indent" markdown="block">
 My advice: **Pick whoever you think is cool.**
 
 You get standard pulls like water in this game, and you get standard characters when you miss on a limited banner, so you are going to own all of these characters eventually.
@@ -133,19 +130,16 @@ All the standard characters are equally good and usable in some way, from early 
 You will probably have more fun doing the story mode with a character you like, rather than a character who is 5% stronger but you don't care much about.
 
 If you *only* care about meta, go to the [official Discord](https://discord.gg/RAegY8wcGx) and ask what standard characters work best with the current rate-up limited characters.
-</div>
 
 ## Should I Reroll My Account?
 
-<div class="text-indent" markdown="block">
-  **No, rerolling is a waste of time.**
+**No, rerolling is a waste of time.**
 
-  Keeper level (account level) is the most valuable stat in this game. Everything else can be fixed with patience or money, but there's no way to get a high keeper level other than sticking to one account for a long time.
+Keeper level (account level) is the most valuable stat in this game. Everything else can be fixed with patience or money, but there's no way to get a high keeper level other than sticking to one account for a long time.
 
-  Unless you spend 500K silver pulling wheels you don't use, or something similarly ridiculous, it is very difficult to brick your account. You don't need meta characters to clear normal story mode or even get all rewards from D-Effect Zone.
+Unless you spend 500K silver pulling wheels you don't use, or something similarly ridiculous, it is very difficult to brick your account. You don't need meta characters to clear normal story mode or even get all rewards from D-Effect Zone.
 
-  Even if you want meta characters, Morimens is one of the most generous gacha games in existence. Just wait for the developers to give you free pulls, and then you can go pull on whatever banner you want.
-</div>
+Even if you want meta characters, Morimens is one of the most generous gacha games in existence. Just wait for the developers to give you free pulls, and then you can go pull on whatever banner you want.
 
 <figure markdown="span">
   ![](images/emojis/ryker-shy.png){width="128" loading=lazy} <figcaption>"99% of gamblers quit before they hit the jackpot."</figcaption>
@@ -155,7 +149,6 @@ If you *only* care about meta, go to the [official Discord](https://discord.gg/R
 
 ### Luminous and Ethereal Cores (Limited Pulls)
 
-<div class="text-indent" markdown="block">
 ![](images/icons/luminous-core.png){width="128" loading=lazy}
 ![](images/icons/ethereal-core.png){width="128" loading=lazy}
 
@@ -172,22 +165,16 @@ This guide includes Awakener Tier Lists and an SSR Wheel Tier List. The higher t
 ![](images/resources/moonless-guide.png){width="384" loading=lazy}
 
 The Moonless Guide banner lets you select 4 limited characters from the first year of Morimens. To summarize this guide's Awakener Tier Lists:
-</div>
 
-<div class="list-indent" markdown="block">
 - Thais and Horla are very powerful and highly recommended for new players.
 - Lily, Ryker, Tawil, Miryam, Murphy, GHelot, and Salvador are strong choices.
 - "24", Hameln, and Tulu are okay but not amazing choices.
 - Sorel, Daffodil, and Wanda aren't worth it for new players unless you really like them.
-</div>
 
-<div class="text-indent" markdown="block">
 Once you hit a recommended stopping point for any of the selected characters, this banner is no longer worth pulling on because of the risk of getting useless dupes, and you should spend your pulls on the dedicated rate-up banners instead.
-</div>
 
 ### Pure Cores (Standard Pulls)
 
-<div class="text-indent" markdown="block">
 ![](images/icons/pure-core.png){width="128" loading=lazy}
 
 ![](images/resources/realms-research.png){width="384" loading=lazy}
@@ -201,7 +188,6 @@ Morimens is a deckbuilding game. All the standard characters in this game are us
 **Aim for characters that work well with the limited character(s) you pulled for.** The Awakener Guides section has an overview of what each character does and what teammates they might want.
 
 **Don't focus on enlightens for standard characters as a new player.** If you have problems clearing normal story stages, learning the boss mechanics and having other characters to swap in is much more important than having E2 Goliath or E3 Caecus.
-</div>
 
 !!! info ""
     ![](images/awakeners/chaos/gramona-mini.png){width="88.4833" loading=lazy}
@@ -209,20 +195,16 @@ Morimens is a deckbuilding game. All the standard characters in this game are us
 
     Ramona: Timeworn (GRamona) is an alternate form of Ramona with different abilities. If you want her, she costs 60 Pure Cores to unlock. You also need to unlock and complete her Psyche Deepdive side story, "One Step Away."
 
-<div class="text-indent" markdown="block">
 ![](images/resources/wheels.png){width="384" loading=lazy}
 
 **If you have enough characters, you can pull for wheels in Wheels of Rotation.** The Awakener Guides section has suggested SSR wheels for each character. The SSR Wheel Tier List tells you which wheels are generally useful in many teams. Start by getting E3 of every wheel you plan to use in your main team.
 
 **If you already did all of the above and don't know what to pull next**, you can:
-</div>
 
-<div class="list-indent" markdown="block">
-  - Get any standard character enlightens you are missing.
-  - Unlock Gnostic Potential for your standard characters.
-  - Pull on the standard character banner to fish for limited characters and +12 standards.
-  - Go to "wheel jail" and try to +12 a wheel. You can equip two SSR wheels at once if one of them is at +12. Blade of the Titan (Goliath's SSR wheel) is a good candidate to +12.
-</div>
+- Get any standard character enlightens you are missing.
+- Unlock Gnostic Potential for your standard characters.
+- Pull on the standard character banner to fish for limited characters and +12 standards.
+- Go to "wheel jail" and try to +12 a wheel. You can equip two SSR wheels at once if one of them is at +12. Blade of the Titan (Goliath's SSR wheel) is a good candidate to +12.
 
 ## Spending Menophin (Stamina)
 
@@ -232,38 +214,30 @@ Morimens is a deckbuilding game. All the standard characters in this game are us
   ![](images/resources/events.png){width="400" loading=lazy}
 </figure>
 
-<div class="text-indent" markdown="block">
 **Spend your menophin on limited-time events.** There is usually an ongoing event with stages that cost menophin to challenge. Once you do the achievements and get the SR wheel from the event, the rewards are the same as interludes or better. If you own the associated limited character or their SSR wheel, you get even more bonus rewards.
 
 **After fully unlocking the event, don't be afraid to use Special Potion Supply** *(stamina refills)*. As a new player, getting keeper level XP and level up materials *right now* is probably more worthwhile than whatever you are saving for in the future.
 
 **You can do the highest difficulty and get maximum rewards.** Unlike interludes, events are not gated by keeper level. The highest difficulties can easily be beaten by borrowing a level 90 Mouchette from the leaderboards (See [How to clear event lvl 60 stages at lvl 1](https://www.reddit.com/r/Morimens/comments/1shmgbs/how_to_clear_event_lvl_60_stages_at_level_1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button){target="_blank"}).
-</div>
 
 <figure markdown="span">
   ![](images/resources/madness-clear.png){width="600" loading=lazy} <figcaption>A maxed out Mouchette easily clears Madness difficulty by herself</figcaption>
 </figure>
 
-<div class="text-indent" markdown="block">
-  After you clear a stage once, you can re-enact it to instantly get rewards. As a new player, it's worth it to spend a few Emergency Gnoses to clear the level 60 stages, so you get all achievements and huge value for your menophin for the next 2 weeks.
-</div>
+After you clear a stage once, you can re-enact it to instantly get rewards. As a new player, it's worth it to spend a few Emergency Gnoses to clear the level 60 stages, so you get all achievements and huge value for your menophin for the next 2 weeks.
 
 ### Interludes
 
-<div class="text-indent" markdown="block">
-![](images/resources/interludes.png){width="383" loading=lazy}
+![](images/resources/interludes.png){width="384" loading=lazy}
 
 Sometimes you're unlucky and can't get a specific resource you need from events. In that case, you can farm interludes instead. Try not to do this unless you're desperate.
-</div>
 
 ### Verboten Covenant
 
-<div class="text-indent" markdown="block">
-![](images/resources/verboten-covenant.png){width="383" loading=lazy}
+![](images/resources/verboten-covenant.png){width="384" loading=lazy}
 
 **When you unlock covenants at Keeper Level 25, spend some menophin to outfit your characters.** Event stages never give covenants. The only way to get certain covenants, like Burial Ground's Sighs or Life Drain, is to spend menophin doing Verboten Covenant interludes.
 
 **Don't worry about substats as a new player.** Rolling for substats is incredibly expensive and best left for endgame when you have nothing else to spend Rose Scrip on. For now, focus on getting a 6-piece set for each covenant set you plan to use.
 
 The Awakener Guides section suggests covenants for each character. The Building Covenants section suggests main stats and substats to aim for.
-</div>
