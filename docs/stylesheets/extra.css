@@ -100,7 +100,8 @@
 }
 
 .md-typeset h1,
-.md-typeset h2 {
+.md-typeset h2,
+.md-typeset h3 {
   font-family: var(--md-heading-font-family);
   letter-spacing: 0;
 }
@@ -113,11 +114,18 @@
   font-size: 2em;
 }
 
-.md-typeset h3,
+.md-typeset h3 {
+  font-size: 1.6em;
+}
+
 .md-typeset h4,
 .md-typeset h5,
 .md-typeset h6 {
   font-family: var(--md-alt-font-family);
+}
+
+.md-typeset h4 {
+  font-size: 1.25em;
 }
 
 /* Admonition */
@@ -173,6 +181,13 @@
 /* Text */
 .font-alt {
   font-family: var(--md-alt-font-family);
+}
+
+.h3-as-h4 {
+  h3 {
+    font-family: var(--md-alt-font-family);
+    font-size: 1.25em;
+  }
 }
 
 [dir="ltr"] .list-indent ol,
