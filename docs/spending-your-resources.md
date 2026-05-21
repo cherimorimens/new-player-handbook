@@ -6,7 +6,7 @@ icon: lucide/wallet
 # Spending Your Resources
 
 <figure markdown="span">
-  ![](images/emojis/caecus-crying.png){width="128"} <figcaption>Caecus wasted all his Rose Scrip and is now broke. Don't be like Caecus.</figcaption>
+  ![](images/emojis/caecus-cry.png){width="128"} <figcaption>Caecus wasted all his Rose Scrip and is now broke. Don't be like Caecus.</figcaption>
 </figure>
 
 ## Your First Awakening
@@ -149,8 +149,8 @@ Even if you want meta characters, Morimens is one of the most generous gacha gam
 
 ### Luminous and Ethereal Cores (Limited Pulls)
 
-![](images/icons/luminous-core.png){width="128" loading=lazy}
-![](images/icons/ethereal-core.png){width="128" loading=lazy}
+![](images/icons/cores/luminous.png){width="128" loading=lazy}
+![](images/icons/cores/ethereal.png){width="128" loading=lazy}
 
 ![](images/resources/limited-banner.png){width="384" loading=lazy}
 
@@ -175,7 +175,7 @@ Once you hit a recommended stopping point for any of the selected characters, th
 
 ### Pure Cores (Standard Pulls)
 
-![](images/icons/pure-core.png){width="128" loading=lazy}
+![](images/icons/cores/pure.png){width="128" loading=lazy}
 
 ![](images/resources/realms-research.png){width="384" loading=lazy}
 
@@ -241,3 +241,263 @@ Sometimes you're unlucky and can't get a specific resource you need from events.
 **Don't worry about substats as a new player.** Rolling for substats is incredibly expensive and best left for endgame when you have nothing else to spend Rose Scrip on. For now, focus on getting a 6-piece set for each covenant set you plan to use.
 
 The Awakener Guides section suggests covenants for each character. The Building Covenants section suggests main stats and substats to aim for.
+
+## Upgrading Characters
+
+### Levels
+
+![](images/icons/exp/5.png){width="80" loading=lazy}
+![](images/icons/exp/4.png){width="80" loading=lazy}
+![](images/icons/exp/3.png){width="80" loading=lazy}
+![](images/icons/exp/2.png){width="80" loading=lazy}
+![](images/icons/exp/1.png){width="80" loading=lazy}
+
+**Raise everyone to at least level 60.** This increases their CON and thus your max HP. You also unlock milestones in the Records for having level 60 characters. Level 60 is cheap to reach if you [farm limited-time events](#events).
+
+**Prioritize damage dealers and shielders** — characters where the numbers matter. ATK and DEF only affect the numbers on an awakener's command cards and exalt. For a character like Aigis, her debuffs are the same at level 1 or level 90, so leveling her up has less of an impact than leveling up your main damage dealer.
+
+### Skills
+
+![](images/icons/skills/mimetic-crystal.png){width="80" loading=lazy}
+![](images/icons/skills/6.png){width="80" loading=lazy}
+![](images/icons/skills/4.png){width="80" loading=lazy}
+![](images/icons/skills/3.png){width="80" loading=lazy}
+![](images/icons/skills/2.png){width="80" loading=lazy}
+![](images/icons/skills/1.png){width="80" loading=lazy}
+
+**Raise all cards to at least level 3.**
+
+**Prioritize skills where the numbers matter.** For example, leveling up Lotan's rouse only increases the amount of aliemus you get from the rouse — a bonus you only get once per fight. In contrast, leveling up her exalt increases the damage of her highest-damage skill, and the rate at which it scales up over time, and the damage and aliemus from the generated strikes at E3.
+
+**Don't neglect strikes and defenses.** These cards give more aliemus when upgraded, which is important for all characters.
+
+### Soulforge Aptitude
+
+![](images/resources/soulforge-aptitude.png){width="384" loading=lazy}
+
+![](images/icons/soulforge/dreamshard.png){width="80" loading=lazy}
+![](images/icons/soulforge/dreamspark.png){width="80" loading=lazy}
+
+**Very important to level up in Astral Reign.**
+
+Each soulforge level increases CON, ATK, and DEF by 3% in Astral Reign stages. This is like adding 5 extra character levels per soulforge level.
+
+**At minimum, get soulforge level 1 on everyone.** This unlocks their Soulforge Aptitude talent, which in most cases is like a free enlighten. If you don't have any soulforge levels on a character, you're missing part of their kit in Astral Reign stages.
+
+### Madness Omen
+
+![](images/resources/madness-omen.png){width="384" loading=lazy}
+
+**Ignore this until you run out of other things to upgrade.**
+
+This talent is super expensive to unlock. The only thing it does is make the character start the stage with 5 more aliemus per level.
+
+It's useful on some characters who need to exalt in the first fight (e.g. Aigis), but you don't have to worry about it as a new player.
+
+### Gnostic Potential
+
+![](images/resources/gnostic-potential.png){width="384" loading=lazy}
+
+**Ignore this until you run out of other things to spend Pure Cores on.**
+
+This talent grants a decent stat boost, but it's very expensive to unlock. Leave it until you've already pulled a lot and you already have all the standard characters and wheels you want.
+
+## Mythag Shop Priority List
+
+### Rose Scrip
+
+![](images/icons/shop/rose-scrip.png){width="128" loading=lazy}
+
+![](images/icons/skills/mimetic-crystal.png){width="80" loading=lazy}
+![](images/icons/skills/5.png){width="80" loading=lazy}
+
+**Buy Mimetic Crystals and Aetheric Shards every day.** These are rare time-gated materials.
+
+**Buy whatever else you need.** This is a good place to get XP potions and low-level skill materials.
+
+**Don't refresh the shop.** You need tens of millions of Rose Scrip to upgrade all your characters, and even more to upgrade your covenants at endgame.
+
+### Sediment
+
+![](images/icons/shop/sediment.png){width="128" loading=lazy}
+
+![](images/icons/shop/prototype-horizon.png){width="80" loading=lazy}
+![](images/icons/shop/timeloop-copy.png){width="80" loading=lazy}
+
+**Buy Prototype Horizon and Timeloop Copy every month.** These give 1 free duplicate of any awakener or wheel you own, including limited ones. This means Prototype Horizon is worth ~42 limited pulls and Timeloop Copy is worth ~33 limited pulls.
+
+![](images/wheels/dusk-and-dawn-mini.png){width="80" loading=lazy}
+
+**Buy as many copies of Dusk and Dawn as possible.** This is one of the best wheels in the game and it can only be obtained here. If you have it at +12, you can equip it at the same time as another SSR wheel.
+
+![](images/wheels/sunfall-mini.png){width="80" loading=lazy}
+![](images/wheels/birth-of-a-soul-mini.png){width="80" loading=lazy}
+![](images/wheels/spring-in-yakutsk-mini.png){width="80" loading=lazy}
+
+**If you bought the Extra Curriculum *(Battle Pass)*, buy wheel dupes here too.**
+
+![](images/icons/skills/mimetic-crystal.png){width="80" loading=lazy}
+![](images/icons/cores/luminous.png){width="80" loading=lazy}
+![](images/covenants/scarlet-embrace.png){width="80" loading=lazy}
+![](images/covenants/paradox.png){width="80" loading=lazy}
+
+If you have leftover Sediment each month, you can buy other stuff like Mimetic Crystals, Luminous Cores, or covenants. Pure Cores aren't really worth it since you get a lot from dailies.
+
+![](images/wheels/heart-of-silver-mini.png){width="80" loading=lazy}
+
+If you don't have enough keyflare wheels for D-Effect Zone, you can get one copy of Heart of Silver. It's a good candidate to +12 if you're done with the wheels above.
+
+### Badges
+
+![](images/icons/shop/badge.png){width="128" loading=lazy}
+
+![](images/icons/shop/gnosis-fragment.png){width="80" loading=lazy}
+
+**Buy Gnosis Fragments every month.** These are rare time-gated materials.
+
+![](images/icons/shop/shard.png){width="80" loading=lazy}
+![](images/icons/shop/shard.png){width="80" loading=lazy}
+![](images/icons/shop/shard.png){width="80" loading=lazy}
+
+**Buy shards for Lotan, Ogier, and Doll.** All of these characters are usable in D-Effect Zone. Better to have them at OE and not need them, than realize you need OE Lotan and can't get her because you can only buy 3 shards per month.
+
+![](images/covenants/crimson-pulse.png){width="80" loading=lazy}
+![](images/covenants/dream-of-medicine.png){width="80" loading=lazy}
+![](images/icons/shop/remembrance-quill.png){width="80" loading=lazy}
+
+If you have leftover Badges each month, you can spend them to buy covenants or Remembrance Quills (pens). Keep in mind that it's hard to get Badges after you finish the story.
+
+![](images/icons/cores/luminous.png){width="80" loading=lazy}
+![](images/icons/cores/pure.png){width="80" loading=lazy}
+
+You can get the Luminous Cores and Pure Cores if you want. These are one-time only and don't refresh.
+
+### Lightless
+
+![](images/icons/shop/lightless.png){width="128" loading=lazy}
+
+![](images/wheels/rewinding-time-mini.png){width="80" loading=lazy}
+
+**Buy as many copies of Rewinding Time as possible.** This is a strong wheel for many characters and it can only be obtained here. If you have it at +12, you can equip it at the same time as another SSR wheel.
+
+![](images/wheels/celestial-beast-mini.png){width="80" loading=lazy}
+![](images/wheels/deathless-ascent-mini.png){width="80" loading=lazy}
+
+**Buy Celestial Beast or Deathless Ascent with extra Black Offerings.** They're good targets to +12 once you have Rewinding Time at +12.
+
+![](images/covenants/feast-from-afar.png){width="80" loading=lazy}
+
+Feast from Afar is a meta covenant set for some characters. It can only be obtained here.
+
+![](images/icons/cores/luminous.png){width="80" loading=lazy}
+![](images/icons/cores/pure.png){width="80" loading=lazy}
+
+You can get the Luminous Cores and Pure Cores if you want. These are one-time only and don't refresh.
+
+![](images/wheels/gateway-of-truth-mini.png){width="80" loading=lazy}
+
+You can buy SR wheels if you want. Gateway of Truth is very good and worth getting to +12. However, you get them for free if their event reruns in the future.
+
+### D-Jewels
+
+![](images/icons/shop/d-jewels.png){width="128" loading=lazy}
+
+![](images/icons/soulforge/dreamshard.png){width="80" loading=lazy}
+![](images/icons/soulforge/dreamspark.png){width="80" loading=lazy}
+
+**Buy Dreamshards and Dreamsparks every week.** These are important upgrade materials for Astral Reign stages. After you finish the story, you can only get them from events and the shop.
+
+![](images/icons/skills/mimetic-crystal.png){width="80" loading=lazy}
+
+**Buy Mimetic Crystals every week.** These are rare time-gated materials.
+
+![](images/icons/shop/shard.png){width="80" loading=lazy}
+
+**Buy a shard for Aigis if you have leftover D-Jewels.** She is one of the best characters in the game and worth getting to OE. You can also buy shards for Aurita or Erica if you want.
+
+![](images/wheels/core-meltdown-mini.png){width="80" loading=lazy}
+![](images/wheels/winters-requiem-mini.png){width="80" loading=lazy}
+
+Core Meltdown and Winter's Requiem are useful wheels for D-Effect Zone. If you don't have enough keyflare wheels, you can get one copy of each.
+
+![](images/icons/cores/luminous.png){width="80" loading=lazy}
+![](images/icons/cores/pure.png){width="80" loading=lazy}
+
+You can get the Luminous Cores and Pure Cores if you want. These are one-time only and don't refresh.
+
+![](images/covenants/cursed-rabbit.png){width="80" loading=lazy}
+![](images/covenants/re-evolution.png){width="80" loading=lazy}
+
+The covenants Cursed Rabbit and Re-evolution are niche but used by some builds. You can buy them if you want. Keep in mind that you're delaying your long-term progression if you don't buy the highlighted materials above.
+
+## Protoparadises & Selectors
+
+![](images/icons/consumables/protoparadise.png){width="80" loading=lazy}
+
+**Save your Protoparadises until you know exactly what you want.**
+
+You get a lot of Pure Cores from the main story and new player rewards. You will probably pull dozens of standard characters in the first week of playing. Do you really need a specific character right away to clear normal story mode?
+
+Use your Protoparadise if you've already pulled a lot and have most of the characters, but you're still missing a specific character you want. Or if you're missing a specific enlighten that you're 100% sure will help you clear a specific stage.
+
+If you use your Protoparadise on a character and pull the same character soon after, it will be a huge waste.
+
+![](images/icons/consumables/book-of-rotation.png){width="80" loading=lazy}
+
+**Use Books of Rotation to get Blade of the Titan or whatever wheel you want.**
+
+The standard wheel banner lets you pick a target, so if you regret your decision, correcting it is at most 90 Pure Cores away.
+
+![](images/icons/consumables/sepirot-capture.png){width="80" loading=lazy}
+![](images/icons/consumables/suspended-fate.png){width="80" loading=lazy}
+
+Sepirot Captures and Suspended Fates (obtained by spending real money) are random selectors. Just use them and see what you get.
+
+![](images/icons/consumables/selector-awakener-ultra.png){width="80" loading=lazy}
+![](images/icons/consumables/selector-wheel-ultra.png){width="80" loading=lazy}
+![](images/icons/consumables/selector-awakener-caro.png){width="80" loading=lazy}
+![](images/icons/consumables/selector-wheel-caro.png){width="80" loading=lazy}
+![](images/icons/consumables/selector-awakener-aequor.png){width="80" loading=lazy}
+![](images/icons/consumables/selector-wheel-aequor.png){width="80" loading=lazy}
+![](images/icons/consumables/selector-awakener-chaos.png){width="80" loading=lazy}
+![](images/icons/consumables/selector-wheel-chaos.png){width="80" loading=lazy}
+
+If you spend a LOT of money, you can get limited character and wheel selectors. To decide what to get, you can check this guide's Awakener Tier Lists and SSR Wheel Tier List. You can also look at tier lists for heavy investment, like [monchi's +4 tier list](https://www.reddit.com/r/Morimens/comments/1sedg6e/morimens_tier_list_400_dtide_4_vortice_version/).
+
+## Reality Verges
+
+![](images/icons/progression/reality-verge.png){width="128" loading=lazy}
+
+Completing dailies gives you Reality Verges, which are used to unlock side stories and stories from past events.
+
+**Use these to unlock posses.** Each Psyche Deepdive, Dreamscape, and Special Ops gives you a posse. Unlocking more posses boosts the power of all posses and relics in Astral Reign stages.
+
+The Awakener Guides section suggests a posse that works well with each DPS.
+
+**Remember that events can rerun.** If an event reruns, you unlock the event story for free.
+
+If you have all the posses, you can use Reality Verges to unlock whatever you want. You can consider unlocking all the Reproduction Frenzies, as each gives 1 Pure Core (standard pull).
+
+## Silver Prime *(Real Money)*
+
+![](images/icons/shop/silver-prime.png){width="128" loading=lazy}
+
+![](images/resources/silver-prime-1.png){width="384" loading=lazy}
+
+**Moonphase Vigil** (the monthly login bonus) gives the most pulls per Silver Prime spent.
+
+![](images/resources/silver-prime-2.png){width="384" loading=lazy}
+
+**Extra Curriculum** (the seasonal Battle Pass) gives fewer pulls, but a lot of materials for leveling up characters, including time-gated materials. It also lets you pick 1 of 3 SSR wheels which are all incredibly powerful. After you get a wheel once, you can buy dupes from the Sediment shop.
+
+![](images/resources/silver-prime-3.png){width="384" loading=lazy}
+
+**Preorders** are time-limited packages that sometimes appear before a new character is released. These cost 1980 Silver Prime and give 130 pulls, plus a Prototype Horizon and Timeloop Copy. These are the second highest value for your money after Moonphase Vigil.
+
+![](images/resources/silver-prime-4.png){width="384" loading=lazy}
+
+If you still want to spend money on the game, you can buy the time-limited Promotion Commemorative Gifts and Echoed Pilgrimage packs, or the various gift boxes from the Store.
+
+<figure markdown="span">
+  ![](images/emojis/ogier-wave.png){width="128" loading=lazy} <figcaption>Thank you for supporting the game!</figcaption>
+</figure>

@@ -21,9 +21,9 @@ icon: lucide/book-open
 
 !!! note "Last updated"
 
-    18 May 2026
+    21 May 2026
 
-    V2.5.1.0 Saya
+    V2.5.1.0 2.5th Anniversary
 
 !!! info ""
 
